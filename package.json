@@ -1,0 +1,14 @@
+{
+  "name": "js_snippets",
+  "version": "1.0.0",
+  "description": "all of my snippets using javascript",
+  "main": "index.js",
+  "repository": "https://github.com/tridnguyen97/js_snippets.git",
+  "author": "Tri Nguyen Duc <chrisnguyen1403@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bottleneck": "^2.19.5",
+    "lodash": "^4.17.15"
+  }
+}
